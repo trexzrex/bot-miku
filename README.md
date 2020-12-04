@@ -17,8 +17,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/trexzrex/ATR
-> cd ATR
+> git clone https://github.com/trexzrex/bot-miku
+> cd bot-miku
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
