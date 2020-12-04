@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trexzrex/ATR"
+    "url": "git+https://github.com/trexzrex/bot-miku"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trexzrex/ATR/issues"
+    "url": "https://github.com/trexzrex/bot-miku/issues"
   },
-  "homepage": "https://github.com/trexzrex/ATR#readme"
+  "homepage": "https://github.com/trexzrex/bot-miku#readme"
 }
